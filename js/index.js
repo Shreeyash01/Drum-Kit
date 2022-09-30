@@ -2,7 +2,7 @@
 // function handleclick()
 // {
 //     alert("i got clicked");
-// }
+
 
 var drumbtns = document.querySelectorAll(".drum").length;
 for (var i = 0; i < drumbtns; i++) {
