@@ -15,31 +15,24 @@ footer {
     color: #DBEDF3;
     font-family: sans-serif;
 }
-
 .W {
     background-image: url("images/crash.png");
 }
-
 .A {
     background-image: url("images/kick.png");
 }
-
 .S {
     background-image: url("images/snare.png");
 }
-
 .D {
     background-image: url("images/tom1.png");
 }
-
 .J {
     background-image: url("images/tom2.png");
 }
-
 .K {
     background-image: url("images/tom3.png");
 }
-
 .L {
     background-image: url("images/tom4.png");
 }
@@ -48,10 +41,10 @@ footer {
     margin: 10% auto;
 }
 
-.game-over {
+/* .game-over {
     background-color: red;
     opacity: 0.8;
-}
+} */
 
 .pressed {
     box-shadow: 0 3px 4px 0 #DBEDF3;
