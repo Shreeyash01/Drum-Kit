@@ -8,7 +8,7 @@ Quick Demo - https://shreeyash01.github.io/Drum-Kit/
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/drum-kit.git
+   git clone https://github.com/Shreeyash01/Drum-Kit.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
