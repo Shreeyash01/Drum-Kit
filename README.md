@@ -2,6 +2,8 @@
 
 This project is a simple drum kit implemented using HTML, CSS, and JavaScript. It allows users to play different drum sounds by pressing specific keys on their keyboards.
 
+Quick Demo - https://shreeyash01.github.io/Drum-Kit/
+
 ## How to Use
 
 1. Clone the repository to your local machine using the following command:
